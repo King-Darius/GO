@@ -1,0 +1,6 @@
+{
+  "command": "katago gtp -model /path/to/model.bin.gz -config /path/to/gtp.cfg",
+  "startup_commands": [
+    "time_settings 0 30 1"
+  ]
+}
